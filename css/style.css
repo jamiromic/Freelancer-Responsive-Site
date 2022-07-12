@@ -22,6 +22,14 @@ header {
 
 }
 
+.footer_top {
+    background-color: var(--bg-color-footer-top);
+}
+
+.footer_bottom {
+    background-color: var(--bg-color-header-top-footer-bottom);
+}
+
 
 .px_1 {
     padding: 0.12rem 0;
@@ -32,3 +40,17 @@ header {
      margin: 1.5rem 1rem 1rem 1rem;
 }
 
+.btn_form {
+    background-color: var(--bg-color-header-bottom);
+}
+
+.bb_black {
+    border-bottom: 1px solid grey !important;
+}
+
+#icons_circle {
+    padding: 1rem;
+    border: 1px solid white;
+    border-radius: 50%;
+    
+}
