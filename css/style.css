@@ -6,3 +6,29 @@
     --bg-color-footer-top: #3A546D;
 
 }
+
+header {
+    background-color: var(--bg-color-header-top-footer-bottom);
+}
+
+.hero {
+    background-color: var(--bg-color-header-bottom);
+}
+
+.about {
+
+    background-color: var(--bg-color-header-bottom);
+
+
+}
+
+
+.px_1 {
+    padding: 0.12rem 0;
+}
+
+#star {
+     font-size: xx-large;
+     margin: 1.5rem 1rem 1rem 1rem;
+}
+
