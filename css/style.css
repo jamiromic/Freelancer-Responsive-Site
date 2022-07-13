@@ -44,9 +44,6 @@ header {
     background-color: var(--bg-color-header-bottom);
 }
 
-.bb_black {
-    border-bottom: 1px solid grey !important;
-}
 
 #icons_circle {
     padding: 1rem;
